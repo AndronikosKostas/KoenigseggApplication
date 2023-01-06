@@ -1,8 +1,10 @@
 # KoenigseggApplication
 
 ## Q2
+I would like more details on that. If we use only PWM control, it would be open-loop and we would have a lot of issues to deal with. What sounds reasonable to me is to add a PWM after the controller and the send the output to the mechanism.
 
-
+## Q3
+Folder structure ? What do you mean by that?
 
 ## Q4
 Rear wing controll, automatic and remote opening and closing of the doors, boot and engine lid. I cannot come up with new ideas, before I fully understand the previous designs, but I am very familiar with developing software from scratch as all my previous projects was started and finished entirely from me.
