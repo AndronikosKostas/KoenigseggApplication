@@ -1,7 +1,10 @@
 # KoenigseggApplication
 
+## Q1
+The solution is to the application.c file.
+
 ## Q2
-I would like more details on that. If we use only PWM control, it would be open-loop and we would have a lot of issues to deal with. What sounds reasonable to me is to add a PWM after the controller and the send the output to the mechanism.
+If we used only PWM control, it would be open-loop and we would have a lot of issues to deal with. What sounds reasonable to me is to add a PWM after the controller and then send the output to the mechanism.
 
 ## Q3
 Folder structure ? What do you mean by that?
