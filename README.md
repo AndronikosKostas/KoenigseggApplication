@@ -1,7 +1,7 @@
 # KoenigseggApplication
 
 ## Q1
-The solution is to the application.c file. Regarding the handling of fine installation tolerances, I would tweak the gains through simulations and I would use some HPF filters to keep the output even more smoother.
+The solution is to the application.c file. Regarding the handling of fine installation tolerances, I would tweak the gains through simulations and I would use some HF filters to keep the output even more smoother.
 
 ## Q2
 If we used only PWM control, it would be open-loop and we would have a lot of issues to deal with. What sounds reasonable to me is to add a PWM after the controller and then send the output to the mechanism.
