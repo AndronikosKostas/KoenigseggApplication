@@ -10,7 +10,7 @@ If we used only PWM control, it would be open-loop and we would have a lot of is
 Folder structure ? What do you mean by that?
 
 ## Q4
-Rear wing controll, automatic and remote opening and closing of the doors, boot and engine lid. I cannot come up with new ideas, before I fully understand the previous designs, but I am very familiar with developing software from scratch as all my previous projects was started and finished entirely from me.
+Rear wing control, automatic and remote opening and closing of the doors, boot and engine lid. I cannot come up with new ideas, before I fully understand the previous designs, but I am very familiar with developing software from scratch as all my previous projects was started and finished entirely from me.
 
 ## Q5
 ### Regera
