@@ -113,6 +113,7 @@ int main(void) {
         else{
             dir = DIR_EXTEND;
         }
+        pid -> out = output ;
         // send the output to the actuator //
         applyOutputToActuator(output, dir);
   }
