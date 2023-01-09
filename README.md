@@ -8,6 +8,7 @@ If we used only PWM control, it would be open-loop and we would have a lot of is
 
 ## Q3
 ![Screenshot (1262)](https://user-images.githubusercontent.com/58566096/211379810-68b0822f-19fc-4434-8825-7e9d9510d45b.png)
+By organizing the code in this way, you can keep the code for each sensor separate and modular, making it easier to maintain and understand.
 
     
 
