@@ -7,7 +7,17 @@ The solution is to the application.c file. Regarding the handling of fine instal
 If we used only PWM control, it would be open-loop and we would have a lot of issues to deal with. What sounds reasonable to me is to add a PWM after the controller and then send the output to the mechanism.
 
 ## Q3
-Folder structure ? What do you mean by that?
+
+sensors
+├── sensor1
+│   ├── include
+│   ├── src
+│   └── tests
+└── sensor2
+    ├── include
+    ├── src
+    └── tests
+    
 
 ## Q4
 Rear wing control, automatic and remote opening and closing of the doors, boot and engine lid. I cannot come up with new ideas, before I fully understand the previous designs, but I am very familiar with developing software from scratch as all my previous projects was started and finished entirely from me.
