@@ -7,16 +7,8 @@ The solution is to the application.c file. Regarding the handling of fine instal
 If we used only PWM control, it would be open-loop and we would have a lot of issues to deal with. What sounds reasonable to me is to add a PWM after the controller and then send the output to the mechanism.
 
 ## Q3
+![Screenshot (1262)](https://user-images.githubusercontent.com/58566096/211379810-68b0822f-19fc-4434-8825-7e9d9510d45b.png)
 
-sensors
-├── sensor1
-│   ├── include
-│   ├── src
-│   └── tests
-└── sensor2
-    ├── include
-    ├── src
-    └── tests
     
 
 ## Q4
